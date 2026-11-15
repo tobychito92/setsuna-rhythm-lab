@@ -1,9 +1,9 @@
-# SETSUNA · Rhythm Lab v0.4
+# SETSUNA · Rhythm Lab v0.5
 
-Safari rhythm game prototype with native portrait and landscape layouts.
+[Play on GitHub Pages](https://tobychito92.github.io/setsuna-rhythm-lab/)
 
-All three songs play in full: Setsuna Hanabi (3:46), Upside Down Kiss (2:15), HUENINGKAI — Dance With You (2:43). Each has NORMAL/HARD charts and separate best scores. Includes touch controls, calibration and autoplay demonstration.
+Safari rhythm prototype with three full songs, native portrait/landscape layouts, and NORMAL 06 / HARD 12 / EXTREME 16 charts. EXTREME adds denser alternation, doubles, holds, slides and flicks. Each song/difficulty has an independent best score. Includes calibration and autoplay.
 
-Open the GitHub Pages website to play. `index.html` is self-contained, with audio and visual assets embedded. The modular source and 32-test suite are included in `Setsuna_Rhythm_Source_v0.4.zip`.
+`index.html` is self-contained. `Setsuna_Rhythm_Source.zip` includes the modular source, chart generator and 39-test suite. Original v0.4 source is retained as an archive.
 
-The generated charts and visual/timing behavior are prototype approximations; exact Rhythm Hive equivalence and physical iPhone latency are not verified. Music and artwork belong to their respective rights holders; no third-party asset license is granted here.
+Charts and visuals are prototype approximations; physical iPhone latency and exact Rhythm Hive equivalence are not verified. Music/artwork belong to their respective rights holders; no third-party asset license is granted here.
